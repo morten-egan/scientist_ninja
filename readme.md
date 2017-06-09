@@ -1,19 +1,17 @@
 # scientist_ninja
 Morten Egan <morten@plsql.ninja>
- 
-This is the initial readme of the project. More will be added later. Like a description of what this is
- 
-[NOTE]
-Since this is the first check-in, not much info has been added yet.
-But he will do soon.
- 
+
+This is an attempt to build plsql implementation of the Trello/Github libraries:
+
+https://github.com/github/scientist
+https://github.com/trello/scientist
+
 ## Summary
- 
+
 ## Pre-requisites
- 
+
 ## Installation
- 
+
 ## Procedures and Functions
- 
+
 ## Examples
- 
